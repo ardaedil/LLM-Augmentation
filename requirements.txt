@@ -16,5 +16,5 @@ numexpr
 requests
 langchain_community
 langchain
-openai
 yfinance
+
